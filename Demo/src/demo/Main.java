@@ -6,5 +6,6 @@ public class Main {
 		
 		System.out.println("helo");
 		System.out.println("helo 2");
+		System.out.println("helo 3");
 	}
 }
